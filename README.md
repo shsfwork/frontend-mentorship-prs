@@ -5,7 +5,7 @@ This repository showcases the initial pull requests made by our mentees as they 
 ## Mentees
 
 1. **[Name 1]**  
-   LinkedIn: [Link](#)
+   LinkedIn: [Link](https://www.linkedin.com/in/m%C3%BCslime-kayar-243368341/)
 
 ## How to Contribute
 
