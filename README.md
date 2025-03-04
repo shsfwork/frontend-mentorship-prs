@@ -4,8 +4,8 @@ This repository showcases the initial pull requests made by our mentees as they 
 
 ## Mentees
 
-1. **[Name 1]**  
-   LinkedIn: [Link](#)
+1. **[Rohat Filitoglu]**  
+   LinkedIn: [Link](https://www.linkedin.com/in/rohat-filitoglu/)
 
 ## How to Contribute
 
