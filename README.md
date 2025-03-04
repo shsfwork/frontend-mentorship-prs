@@ -7,6 +7,10 @@ This repository showcases the initial pull requests made by our mentees as they 
 1. **[Name 1]**  
    LinkedIn: [Link](#)
 
+2. **[Somebody]**
+   Linkledin: [link](www.linkedin.com/in/sidilya-güneş-ab865a351)
+
+
 ## How to Contribute
 
 - **Fork the repository.**
