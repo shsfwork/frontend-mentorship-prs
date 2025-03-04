@@ -15,4 +15,4 @@ This repository showcases the initial pull requests made by our mentees as they 
 - **Update your details (name and LinkedIn link) under the Mentees section as needed.**
 
 
-[Müslime Kayar] (ilk Commit)
+[Müslime Kayar] (ilk Commit)"Yeni i�erik" 
