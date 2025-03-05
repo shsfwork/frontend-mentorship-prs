@@ -10,7 +10,7 @@ This repository showcases the initial pull requests made by our mentees as they 
 2. **[Somebody]**
    Linkledin: [link](www.linkedin.com/in/sidilya-güneş-ab865a351)
 
-**[Müslime Kayar]**
+3.**[Müslime Kayar]**
    Linkledin: [link](https://www.linkedin.com/in/m%C3%BCslime-kayar-243368341/)
 
 
